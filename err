@@ -1,0 +1,9 @@
+    Finished dev [unoptimized + debuginfo] target(s) in 0.00s
+     Running `target/debug/cli`
+error: The following required arguments were not provided:
+    <INPUTED TEXT>...
+
+USAGE:
+    cli [FLAGS] <INPUTED TEXT>...
+
+For more information try --help
