@@ -1,1 +1,1 @@
-### 🔥 cli 🔥
+### 🔥 rust cli journey 🔥
